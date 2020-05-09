@@ -1,0 +1,6 @@
+SINGLE módban:
+    - Egyszer lövés, ellenőrizni, hogy csak az első lőtt-e és pontosan egyszer
+    - Kétszer lövés, ellenőrizni, hogy mindkettő lőtt-e és pontosan egyszer
+    - Egyszer lövés, de az első üres, ellenőrizni, hogy az első megpróbált-e lőni, és a második lőtt pontosan egyszer 
+    - Kétszer lövés, de a második üres, ellenőrizni, hogy a második megpróbált-e lőni, és az első lőtt pontosan kétszer 
+    - Egyszer lövés, de mindkettő üres, ellenőrizni, hogy mindkettő a megpróbált-e lőni és pontosan egyszer 
